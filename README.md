@@ -1,4 +1,4 @@
-# Car Repair Shop Management System 🚗🔧
+# Car Repair Shop Management System 
 
 A comprehensive web application designed to streamline operations in a car repair shop. This project was developed as my **Engineering Diploma Thesis** at Częstochowa University of Technology.
 
